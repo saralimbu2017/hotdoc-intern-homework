@@ -17,7 +17,7 @@ We have two options for language, JavaScript and Ruby.
 Neither option is easier, or taken with more weight. Just choose the language you are most comfortable with.
 
 Please delete the test folder for the language you are *not* completing and commit those changes to your repository.
-
+choose JavaScript
 ### Step 3: Do the 5 small challenges!
 
 You'll find a folder called `tasks`. Each file is a small coding challenge, complete each. 
